@@ -1,0 +1,7 @@
+transformers==4.47.1
+torch==1.13.1
+numpy==1.25.2
+scikit-learn==1.2.2
+pandas  ==1.5.3
+openai==1.59.6
+fitz==1.23.2
